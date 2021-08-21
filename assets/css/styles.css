@@ -480,6 +480,15 @@ img{
   width: 66px;
 }
 
+.footer__callout{
+    font-size: 1rem;
+    margin-right: var(--mb-1);
+}
+
+.footer__callout:hover{
+    color: var(--first-color);
+}
+
 .footer__title,
 .footer__text,
 .footer__social{
